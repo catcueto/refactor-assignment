@@ -1,6 +1,6 @@
 # refactor-assignment
 
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="UTF-8" />
@@ -46,7 +46,7 @@
         <h2>Online Reputation Management</h2>
         <p>
           The web is full of opinions, and some of these can be negative. Social
-          media allows anyone with an internet connection to say whatever they
+          media allowsz anyone with an internet connection to say whatever they
           want about your business. Online Reputation Management gives you the
           control over what potential customers see when they search for your
           business.
